@@ -1,0 +1,64 @@
+
+.diskon-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 25px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px #00000010;
+}
+
+.diskon-container h1 {
+  text-align: center;
+  color: #007bff;
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+
+.diskon-container label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.diskon-container input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 18px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.diskon-container button {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.diskon-container button:hover {
+  background-color: #0056b3;
+}
+
+.diskon-result {
+  margin-top: 25px;
+  padding: 15px;
+  background-color: #f0f7ff;
+  border-radius: 5px;
+  overflow-wrap: anywhere;
+}
+
+.diskon-result h2 {
+  color: #007bff;
+  font-size: 20px;
+}
+
+.diskon-result p {
+  margin: 10px 0;
+}
